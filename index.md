@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Coffy Andrews-Guo's Data Analyst Portfolio
 
 You can use the [editor on GitHub](https://github.com/candrewxs/candrewxs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 4 R projects
+
+- Week 1: Exploratory data analysis
+- Week 2: Interactive Shiny dashboard
+- Week 3: Natural Language Processing
+- Week 4: Machine Learning
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
